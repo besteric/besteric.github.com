@@ -20,13 +20,10 @@ tags:
 
 网上很多教程，我也搜了很多篇，推荐以下几篇文章
 
-[搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-
-[非常赞的Github指南——GotGitHub](http://www.worldhello.net/gotgithub/03-project-hosting/050-homepage.html)
-
-[像黑客一样写博客——Jekyll入门](http://www.soimort.org/posts/101/)
-
-[使用jekyll来写博客的一些心得](http://webfrogs.me/2012/12/20/use-jekyll/)
+* [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+* [非常赞的Github指南——GotGitHub](http://www.worldhello.net/gotgithub/03-project-hosting/050-homepage.html)
+* [像黑客一样写博客——Jekyll入门](http://www.soimort.org/posts/101/)
+* [使用jekyll来写博客的一些心得](http://webfrogs.me/2012/12/20/use-jekyll/)
 本博客的Theme也是clone这个版本的
 
 **积累的一些经验**
