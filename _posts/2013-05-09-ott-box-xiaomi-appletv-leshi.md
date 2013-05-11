@@ -10,7 +10,7 @@ tags:
 
 
 ---
-去年从同事处收购了一个Apple TV 2nd，一直没怎么玩放在家里吃灰，自从上个月从Amazon购买了[42LG3100](http://s.click.taobao.com/t?e=zGU34CA7K%2BPkqB05%2Bm7rfGGjlY60oHcc7bkKOQiQx4XjsGHQBgWQps1xpQOiXu9fE7yVgnf5AF5rVUcmJmeewhm5m9bd0o7uk2%2F%2BlRPdXyg3TU3E8BdG2OxFW%2F65lS7IcmTlCDpGItDf%2BzjkD78QKNDiwuCmpyt1jlUDAASfjYcd92arlu545qyNnV7CbUbmIpzMKurWG7Kc7z%2F4%2BH3Mx0vN2lycxQdNgLriSZddTj0%2BHkYkI2xsZStek2L%2F5s6duPb2O21dOi9MLXV%2FZAYaak1WNw%3D%3D)后，Apple TV终于派上用场，主要给家里的老人看电视使用，所以还是采取了老土但异常有效的[DNS劫持大法](http://bbs.weiphone.com/read-htm-tid-5145381.html)，资源丰富，适合无脑使用。
+去年从同事处收购了一个Apple TV 2nd，一直没怎么玩放在家里吃灰，自从上个月从Amazon购买了[LG 42LS3100](http://s.click.taobao.com/t?e=zGU34CA7K%2BPkqB05%2Bm7rfGGjlY60oHcc7bkKOQiQx4XjsGHQBgWQps1xpQOiXu9fE7yVgnf5AF5rVUcmJmeewhm5m9bd0o7uk2%2F%2BlRPdXyg3TU3E8BdG2OxFW%2F65lS7IcmTlCDpGItDf%2BzjkD78QKNDiwuCmpyt1jlUDAASfjYcd92arlu545qyNnV7CbUbmIpzMKurWG7Kc7z%2F4%2BH3Mx0vN2lycxQdNgLriSZddTj0%2BHkYkI2xsZStek2L%2F5s6duPb2O21dOi9MLXV%2FZAYaak1WNw%3D%3D)后，Apple TV终于派上用场，主要给家里的老人看电视使用，所以还是采取了老土但异常有效的[DNS劫持大法](http://bbs.weiphone.com/read-htm-tid-5145381.html)，资源丰富，适合无脑使用。
 
 最近搬到新家后，又特价买了台[Sharp 60LX540A](http://s.click.taobao.com/t?e=zGU34CA7K%2BPkqB05%2Bm7rfGGjlY60oHcc7bkKOQiQx4XiA6ZwjIGpX%2Bfk0Kr5wJnFo50dXwo3VOtrHxiXHd4hM5AYIZNeIlFPRD7TjUQsAxznZ%2FBdddXdn2lYjAWYn9SulEHRfRyFujIZPh8Y9MqyE2e8%2FsRIknPIHkoR0%2Bfh%2F7U3X%2B5zTqUStzoBb%2BWNKykT0cWSReOgk6RxXJqLvbgj)，不打算安装国内过时的有线闭路电视，所以计划再购买一台OTT盒子，适逢国内OTT厂商井喷式发布产品，于是楼主一口气买了其中的两款佼佼者——小米盒子、乐视盒子C1S。看了下国内各种评测好像还没有完整的比较下三者，所以就自己写了这篇文章，废话不多说，直接看图吧：）
 
