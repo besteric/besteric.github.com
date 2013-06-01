@@ -263,6 +263,24 @@ Mini大眼睛底部有一个弹性夹，可以很方便的固定在各种显示�
 
 ![image](http://img01.taobaocdn.com/tps/i1/T1QN1YXrxcXXabme77-800-533.jpg)
 
+大眼睛目前播放NAS 1080P的硬解码APP还是不够完善，楼主尝试使用了[网友编译的XBMC+KX](http://www.7po.com/forum.php?mod=viewthread&tid=61437)，依然不是很理想
+
+尝试播放了NAS里面的1080P「IMAX:北极熊心」，「2013 成人奥斯卡颁奖典礼」都略有卡顿
+
+![image](http://img04.taobaocdn.com/tps/i4/T1s_yZXzxaXXbcReo7-800-444.jpg)
+![image](http://img01.taobaocdn.com/tps/i1/T1A0K0XBlXXXXES1s7-800-451.jpg)
+![image](http://img04.taobaocdn.com/tps/i4/T13N1YXpXdXXav3Kc7-800-430.jpg)
+
+播放720P格式的文件毫无压力
+
+![image](http://img02.taobaocdn.com/tps/i2/T1gvG0XyJXXXcAHd37-800-408.jpg)
+![image](http://img03.taobaocdn.com/tps/i3/T1qlSZXqNbXXaH.1w7-800-456.jpg)
+
+MX直接播放NAS文件，会提示不支持TS音效，暂时没找到解决方案
+
+目前局域网文件传输速度维持在10MB/S的速率，相信播放普通的1080P码率应该不算太大的问题
+
+等有时间了，自己编译个最新版的XBMC，不知道能否解决1080P硬解码的问题
 
 
 ----
@@ -281,4 +299,9 @@ Mini大眼睛底部有一个弹性夹，可以很方便的固定在各种显示�
 * 性能相对其他几款OTT盒子较强，播放视频解码能力也不错，适合有能力的同学使劲折腾，一般用户还是算了
 * 原生Android 4.1系统，自由度相对其他几款OTT盒子更高一些
 * 操作不算方便，需要额外搭配Android手机或者无线键鼠
+* 没有正规的「互联网电视牌照」注定了它就是个配角，没有版权的内容，更无法在国内OTT市场争取到更大的市场份额
 * TP-Link Mini 大眼睛是披着OTT盒子的伪路由器+无屏幕的平板主机，这款产品定位不够清晰，只是简单粗暴的把一堆功能加上去，应该只是厂家的试水之作，相信不久既会被其他产品所取代（TP-Link 已推出简化版的白色Mini）
+
+----
+
+最近尝试了这么多OTT盒子，每款都有优缺点，今年的客厅多媒体大战愈演愈烈，君不知PS4 和 Xbox One也要加入到战局来，谁控制了这个入口一定会成为未来的王者！请问各位看官觉得如何了：）
