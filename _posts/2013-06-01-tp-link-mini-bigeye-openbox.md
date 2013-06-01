@@ -95,7 +95,7 @@ Mini大眼睛底部有一个弹性夹，可以很方便的固定在各种显示�
 ![image](http://img04.taobaocdn.com/tps/i4/T1tcC0XuNXXXabme77-800-533.jpg)
 ![image](http://img01.taobaocdn.com/tps/i1/T1L11ZXupbXXabme77-800-533.jpg)
 
-再拿侧卧的LG 42LS3100测试（这款电视较厚，8CM左右）
+再拿侧卧的LG 42LS3100测试（这款电视较厚，5CM左右）
 
 ![image](http://img03.taobaocdn.com/tps/i3/T11z9ZXrFaXXabme77-800-533.jpg)
 ![image](http://img02.taobaocdn.com/tps/i2/T1Xx1ZXw4aXXabme77-800-533.jpg)
@@ -106,7 +106,7 @@ Mini大眼睛底部有一个弹性夹，可以很方便的固定在各种显示�
 ![image](http://img01.taobaocdn.com/tps/i1/T1B4qZXBlaXXabme77-800-533.jpg)
 ![image](http://img03.taobaocdn.com/tps/i3/T1RoaWXw0dXXabme77-800-533.jpg)
 
-总体来说大眼睛的应用场景还是适合家用大多数液晶电视的，不管是2CM还是8CM都通吃
+总体来说大眼睛的应用场景还是适合家用大多数液晶电视的，不管是2CM还是5CM都通吃
 
 ----
 
