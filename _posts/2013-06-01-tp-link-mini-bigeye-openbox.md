@@ -37,7 +37,7 @@ tags:
 
 拆开覆盖在机器上面的一层皮，取出大眼睛，重量非常轻，强烈的塑胶感袭来
 
-![image](http://img01.taobaocdn.com/tps/i1/T1w.eZXzXXXXabme77-800-533.jpg)
+![image](http://img04.taobaocdn.com/tps/i4/T1ZXKYXzJeXXabme77-800-533.jpg)
 
 配件都装在一个小盒子里面
 
