@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "把我的钱还给我——返利模式随想"
+title: "返利模式随想"
 categories:
 - 寂寞传说
 tags:

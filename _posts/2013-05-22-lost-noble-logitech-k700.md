@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OTT盒子必备——罗技K700无线键盘评测"
+title: "罗技K700无线键盘评测"
 categories:
 - 不折腾不舒服斯基
 tags:

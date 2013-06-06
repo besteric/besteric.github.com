@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "对不起，我是无间道——TP-Link Mini 大眼睛 开箱评测"
+title: "TP-Link Mini 大眼睛 开箱评测"
 categories:
 - 折腾数码
 tags:
