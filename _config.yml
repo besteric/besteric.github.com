@@ -1,9 +1,65 @@
 markdown: rdiscount
-permalink: /:year/:month/:day/:title/
-url: http://besteric.github.com
-author: besteric
 pygments: true
-safe: true
-paginate: 16
-auto: true
+plugins: ./_plugins
+paginate: 8
 
+safe: false
+
+#站点基础配置
+title: Pretend To Write Like A Hacker
+subTitle: besteric.
+description: 记录生活点滴，积累沉淀...
+url: http://besteric.github.com
+feed: /atom.xml
+
+#菜单配置
+nav:
+  - text: 首页
+    url: /index.html
+  - text: 游戏
+    url: game/index.html
+  - text: 运动
+    url: sport/index.html
+  - text: 文章归档
+    url: /archives.html
+  - text: 关于我
+    url: about/index.html
+  - text: 网站日志
+    url: logs/index.html
+  - text: 订阅
+    url: /atom.xml
+
+#theme config
+themes: /themes/violet
+
+#配置你喜欢的顶部背景图片
+headimg:
+  - item: /themes/violet/images/hdbg01.jpg
+  - item: /themes/violet/images/hdbg02.jpg
+  - item: /themes/violet/images/hdbg03.jpg
+  - item: /themes/violet/images/hdbg04.jpg
+
+#关注我
+follow:
+
+  - class: fa-github
+    url: http://github.com/besteric
+  - class: fa-twitter
+    url: http://www.twitter.com/besteric
+  - class: fa-rss
+    url: http://www.zhanxin.info
+
+#作者信息
+author:
+  name: besteric
+  link: http://www.besteric.com/contact.html
+  img: 
+
+#评论信息
+disqus:
+  config: false
+  id: piznblog
+
+duoshuo:
+  config: true
+  id: besteric
