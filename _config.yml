@@ -17,15 +17,15 @@ nav:
   - text: 首页
     url: /index.html
   - text: 游戏
-    url: game/index.html
+    url: ../game/index.html
   - text: 运动
-    url: sports/index.html
+    url: ../sports/index.html
   - text: 文章归档
     url: /archives.html
   - text: 关于我
-    url: about/index.html
+    url: ../about/index.html
   - text: 网站日志
-    url: logs/index.html
+    url: ../logs/index.html
   - text: 订阅
     url: /atom.xml
 
@@ -34,10 +34,10 @@ themes: /themes/violet
 
 #配置你喜欢的顶部背景图片
 headimg:
-  - item: /themes/violet/images/hdbg01.jpg
-  - item: /themes/violet/images/hdbg02.jpg
-  - item: /themes/violet/images/hdbg03.jpg
-  - item: /themes/violet/images/hdbg04.jpg
+  - item: http://gtms02.alicdn.com/tps/i2/T1PObnFqBdXXcryKEg-1280-200.jpg
+  - item: http://gtms03.alicdn.com/tps/i3/T1U_YlFAlcXXbErygJ-2048-260.jpg
+  - item: http://gtms04.alicdn.com/tps/i4/T1K0LLFvVbXXbErygJ-2048-260.jpg
+  - item: http://gtms01.alicdn.com/tps/i1/T12DHKFx4bXXbErygJ-2048-260.jpg
 
 #关注我
 follow:

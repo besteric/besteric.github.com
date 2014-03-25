@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "如何使用Grunt构建前端自动化开发环境"
+description: 搭建自动化开发环境，作为前端同学的职业软技能，在一定程度上可以加不少分呢：）
 categories:
 - 蛋疼的事
 tags:
