@@ -239,12 +239,14 @@ a:hover {
     list-style: none;
 }
 .pagination-list:hover{
-    overflow: inherit;
+    min-height: 75px;
+    height: 100%;
 }
 .pagination-list li {
     float: left;
     padding-right: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
+    transition: 0.2s;
 }
 .pagination-list li a,
 .pagination-list .prev,

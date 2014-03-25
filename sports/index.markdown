@@ -1,8 +1,8 @@
 ---
-author: admin
+author: besteric
 comments: true
 date: 2011-04-19 23:28:51
-layout: page
+layout: post
 slug: sports
 title: Sports
 wordpress_id: 790

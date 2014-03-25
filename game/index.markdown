@@ -1,8 +1,8 @@
 ---
-author: admin
+author: besteric
 comments: true
 date: 2010-04-07 17:09:46
-layout: page
+layout: post
 slug: game
 title: Game
 wordpress_id: 529

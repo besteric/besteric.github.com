@@ -1,8 +1,8 @@
 ---
-author: admin
+author: besteric
 comments: false
 date: 2010-01-23 10:55:11
-layout: page
+layout: post
 slug: logs
 title: Logs
 wordpress_id: 384
