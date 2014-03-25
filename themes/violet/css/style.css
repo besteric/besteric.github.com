@@ -301,7 +301,7 @@ a:hover {
     margin: 0 auto;
 }
 .footer .logo {
-    width: 200px;
+    width: 100%;
     float: right;
     text-align: right;
 }
