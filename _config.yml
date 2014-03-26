@@ -2,6 +2,7 @@ markdown: rdiscount
 pygments: true
 plugins: ./_plugins
 paginate: 8
+permalink: /:year/:month/:day/:title/
 
 safe: false
 
@@ -15,17 +16,17 @@ feed: /atom.xml
 #菜单配置
 nav:
   - text: 首页
-    url: /index.html
+    url: /
   - text: 游戏
-    url: ../game/index.html
+    url: ../game/
   - text: 运动
-    url: ../sports/index.html
+    url: ../sports/
   - text: 文章归档
-    url: /archives.html
+    url: /archives/
   - text: 关于我
-    url: ../about/index.html
+    url: ../about/
   - text: 网站日志
-    url: ../logs/index.html
+    url: ../logs/
   - text: 订阅
     url: /atom.xml
 
