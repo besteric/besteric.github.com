@@ -88,15 +88,8 @@ a{
     color: #0088cc;
 }
 a:hover {
-    color: white;
-    background: rgba(0, 0, 0, 0.8); 
-    border-radius: 3px 3px;
+    color: #08c;
     text-decoration: underline;
-    -webkit-transition: background .4s ease-in-out;
-    -moz-transition: background .4s ease-in-out;
-    -ms-transition: background .4s ease-in-out;
-    -o-transition: background .4s ease-in-out;
-    transition: background .4s ease-in-out;
 }
 
 ::selection {
