@@ -89,7 +89,10 @@ a{
 }
 a:hover {
     color: #08c;
-    text-decoration: underline;
+}
+.violet-post a:hover{
+    color: white;
+    text-shadow: -1px 1px 5px #08c, 1px -1px 5px #08c;
 }
 
 ::selection {
