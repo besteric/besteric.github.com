@@ -84,10 +84,21 @@ samp {
 a:link {
     color: #08c;
 }
-a:hover {
-    color: #08c;
-    text-decoration: underline;
+a{
+    color: #0088cc;
 }
+a:hover {
+    color: white;
+    background: rgba(0, 0, 0, 0.8); 
+    border-radius: 3px 3px;
+    text-decoration: underline;
+    -webkit-transition: background .4s ease-in-out;
+    -moz-transition: background .4s ease-in-out;
+    -ms-transition: background .4s ease-in-out;
+    -o-transition: background .4s ease-in-out;
+    transition: background .4s ease-in-out;
+}
+
 ::selection {
     background: #F4F4F6;
     text-shadow: none;

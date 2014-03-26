@@ -43,11 +43,39 @@ author:
 
 ```
 
-
 在其他地方如果需要引用\_config.yml配置的name属性，可以使用这种形式：\{\{ site.author.name \}\}，其实简单理解将\_config.yml赋值给site这个变量，相对应的变量还有一个\{\{page\}\}，也是指代了每一个页面的属性，具体的语法规则可以看[这里](http://jekyllrb.com/docs/configuration/)
 
 在更新完主题后，我顺手更新了下本地的Jekyll，直接大跃进至1.5.0版本，为了使用最新的[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)语法，以及使用Fenced code blocks高亮代码块模式，我毫不犹豫的将markdown渲染引擎从rdiscount修改为redcarpet
 
----
+这样就可以使用Fenced code blocks(中文名貌似叫「围栏」)方式高亮各种代码了
+
+    \\\javascript
+
+    function HelloWorld(){
+        console.log('Say hello to redcarpet')
+    }
+
+    \\\
+
+```javascript
+
+function HelloWorld(){
+    console.log('Say hello to redcarpet')
+}
+```
+
+
+**共享主题**
 
 violet 2遵循[The MIT License](http://opensource.org/licenses/MIT),所以有需要的同学可以去下载原版使用，或者直接拷贝我的[Github](https://github.com/besteric/besteric.github.com)
+
+**参考资料**
+
+* [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+* [Markdown 渲染引擎折腾记](http://www.douban.com/note/147668553/)
+* [jekyll + markdown使用笔记](http://blog.coloam.com/jekyll/markdown/2013/09/22/markdown-note/)
+* [让Jekyll将Pandoc作为Markdown的渲染器](http://dannpu.com/blog/2013/08/02/new-post/)
+* [用Jekyll和Pygments配置代码高亮](http://zyzhang.github.io/blog/2012/08/31/highlight-with-Jekyll-and-Pygments/)
+
+
+-EOF-
