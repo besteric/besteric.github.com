@@ -21,8 +21,9 @@ PS：关于_config.yml可以参考下它的[官方网页](http://jekyllrb.com/do
 
 比如我的_config.yml部分代码如下：
 
-```
-markdown: rdiscount
+```yaml
+
+markdown: redcarpet
 pygments: true
 plugins: ./_plugins
 paginate: 8
@@ -40,10 +41,12 @@ author:
   name: besteric
   link: http://www.besteric.com/contact.html
 
-
 ```
 
-在其他地方如果需要引用_config.yml配置的name属性，可以使用这种形式：{{ site.author.name }}，其实简单理解将_config.yml赋值给site这个变量，相对应的变量还有一个{{page}}，也是指代了每一个页面的属性，具体的语法规则可以看[这里](http://jekyllrb.com/docs/configuration/)
+
+在其他地方如果需要引用\_config.yml配置的name属性，可以使用这种形式：\{\{ site.author.name \}\}，其实简单理解将\_config.yml赋值给site这个变量，相对应的变量还有一个\{\{page\}\}，也是指代了每一个页面的属性，具体的语法规则可以看[这里](http://jekyllrb.com/docs/configuration/)
+
+在更新完主题后，我顺手更新了下本地的Jekyll，直接大跃进至1.5.0版本，为了使用最新的[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)语法，以及使用Fenced code blocks高亮代码块模式，我毫不犹豫的将markdown渲染引擎从rdiscount修改为redcarpet
 
 ---
 
