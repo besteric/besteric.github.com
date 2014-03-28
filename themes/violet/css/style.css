@@ -90,7 +90,7 @@ a{
 a:hover {
     color: #08c;
 }
-.violet-post a:hover{
+.main-article-contant a:hover{
     color: white;
     text-shadow: -1px 1px 5px #08c, 1px -1px 5px #08c;
 }
