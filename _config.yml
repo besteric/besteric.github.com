@@ -20,15 +20,15 @@ nav:
   - text: 首页
     url: /
   - text: 游戏
-    url: ../game/
+    url: /game/
   - text: 运动
-    url: ../sports/
+    url: /sports/
   - text: 路由器
     url: /archives/
   - text: 关于我
-    url: ../about/
+    url: /about/
   - text: 网站日志
-    url: ../logs/
+    url: /logs/
   - text: 订阅
     url: /atom.xml
 
