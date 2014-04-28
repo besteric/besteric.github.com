@@ -23,7 +23,7 @@ nav:
     url: /game/
   - text: 运动
     url: /sports/
-  - text: 路由器
+  - text: 文章列表
     url: /archives/
   - text: 关于我
     url: /about/
