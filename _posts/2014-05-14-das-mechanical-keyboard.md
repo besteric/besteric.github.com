@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "机械键盘Das青轴Mac版简单开箱"
-description:使用Mac自带键盘和Apple G6无线键盘有好几年了，最近长时间写代码发现它们不像原来这么带感了，所以开始物色机械键盘，有朋友推荐Das的青轴还不错...
+description: 使用Mac自带键盘和Apple G6无线键盘有好几年了，最近长时间写代码发现它们不像原来这么带感了，所以开始物色机械键盘，有朋友推荐Das的青轴还不错...
 categories:
 - 折腾数码
 tags:
