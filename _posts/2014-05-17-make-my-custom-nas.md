@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "make my custom nas"
+title: "低成本打造自制群晖系统，安装DSM 5.0 4458 update 2"
 description: 前段时间由于扫黄打非导致国内大部分PT站点上不去，闲着蛋疼的开始琢磨是否需要折腾一个NAS作为家庭存储+影音播放+脱机下载使用，于是自己组装了一台ITX机器刷了synology系统...
 categories:
 - 蛋疼的事
