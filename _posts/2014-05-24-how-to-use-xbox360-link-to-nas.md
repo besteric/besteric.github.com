@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Xbox360安装FreeStyle访问Nas，实现远程无盘游戏"
-description:
+description: Nas俨然已成为家庭多媒体链路中最核心的数据中心，躲在角落的Xbox360也借着这次东风实现了远程无盘游戏...
 categories:
 - 偶尔惊喜
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-自从折腾了一台黑群晖，就想把家里所有数码设备都折腾进Nas共享链路里面，于是又翻出了百年不开机的Xbox360。
+自从折腾了一台[黑群晖](http://www.besteric.com/2014/05/17/make-my-custom-nas/)，就想把家里所有数码设备都折腾进Nas共享链路里面，于是又翻出了百年不开机的Xbox360。
 
 **准备事宜**
 
@@ -79,6 +79,8 @@ tags:
 * 天气插件需要自行去worldweatheronline.com申请一个免费API 
 
 如果愿意折腾的同学还可以考虑：
+
+* 同样的方法应该也是适用于PC/Mac共享文件夹
 
 * 使用Link实现类似浩方对战平台的局域网模拟功能，和其他好基友对战（国内貌似有些联机群）
 
