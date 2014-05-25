@@ -70,15 +70,25 @@ tags:
 
 ![image](http://gtms03.alicdn.com/tps/i3/T1usoHFNhbXXaOhx_o-600-338.jpg)
 
+再测试下大型Xbox360游戏「Watch Dogs」繁体中文版，考虑到游戏也是采用的和GTA一样的大型沙盘结构，所以第一次Loading的时候用了不少时间...
+
+![image](http://gtms02.alicdn.com/tps/i2/T18okEFJleXXaOhx_o-600-338.jpg)
+
+![image](http://gtms03.alicdn.com/tps/i3/T1UW3IFIRcXXaOhx_o-600-338.jpg)
+
 基本上Xbox360设置到这里就告一段落了，终于可以摆脱内置60G硬盘的限制了，轻松管理存放在NAS的游戏库了：）
 
 注意事项：
+
+* 可以通过修改内置硬盘（HDD）更目录的Launch.ini文件的default路径，达到Xbox开机启动进入FreeStyle
 
 * FreeStyle自带游戏截图功能，并会将其保存至/FreeStyle/Plugins/UserData/XXXXXXXX(游戏编号)/Screenshots/ 目录下 
 
 * 天气插件需要自行去worldweatheronline.com申请一个免费API 
 
 如果愿意折腾的同学还可以考虑：
+
+* Xbox360百兆网卡的限制还是会影响到游戏载入速度（上限为12.5 MB/S），可以考虑购买配套的无线网卡（300M）插入背部USB2.0接口，理论上应该会比有线网卡速度提升一倍（还是要受限于USB的传输速度），而且还避免了布线的问题。
 
 * 同样的方法应该也是适用于PC/Mac共享文件夹
 
