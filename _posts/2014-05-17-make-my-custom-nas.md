@@ -16,16 +16,16 @@ tags:
 
 去年搬进新家的时候曾经折腾了一个[华为HG255D路由器](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fre.taobao.com%2Feauction%3Fe%3DInbV5XuTBiHebLdhAWchHBWPN1SFdommWPt1fh5JBxyLltG5xFicOSZqewpHPyZzVuAX9KjHXqlrRF2mRoYw2w6%252F27l4VpYj72xyKpEWvWWB3ujUJI0OeA%253D%253D%26ptype%3D100010&k=e2e107a2b72ca1b1&c=un&b=alimm_0&p=mm_16933576_5054595_15502779)，刷了OPENWRT第三方固件，使用Transmission实现了PT脱机下载，并且功耗非常小可以7X24长时间开机，缺点也是非常明显的，由于采用USB 2.0外挂移动硬盘，I/O仅仅能维持2-3MB/S的速率...
 
-最近看到很多网友晒单低成本组装ITX主机，刷群晖系统从而实现家庭NAS功能，身为不折腾不舒服斯基星球的人，我决定按照[link](http://show.smzdm.com/detail/60369)这个思路，自己也组装一台机器。
+最近看到很多网友晒单低成本组装ITX主机，刷群晖系统从而实现家庭NAS功能，身为不折腾不舒服斯基星球的人，我决定按照[这个思路](http://show.smzdm.com/detail/60369)，自己也组装一台机器。
 
 **配置清单:**
 
-主板：ZOTAC/索泰 Mini-itx（板载 ATOM N230 CPU）
-内存：2G DDR2 667/800
-机箱：乔思伯 V6
-电源：闲置19V/3.43A笔记本电源
-优盘：闲置不知名品牌8G迷你优盘
-硬盘：闲置巴法络 3.5寸 2TB 移动硬盘 拆机硬盘
+* 主板：ZOTAC/索泰 Mini-itx（板载 ATOM N230 CPU）
+* 内存：2G DDR2 667/800
+* 机箱：乔思伯 V6
+* 电源：闲置19V/3.43A笔记本电源
+* 优盘：闲置不知名品牌8G迷你优盘
+* 硬盘：闲置巴法络 3.5寸 2TB 移动硬盘 拆机硬盘
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 
 * 板载ATOM N230 CPU
 * 板载千兆网卡
-* USB 2.0 *10 + HDMI + VGA + Sata3 *3 + eSata
+* USB 2.0 *10 + HDMI + VGA + Sata3 x 3 + eSata
 
 价格居然还是异常惊人的160元（不含邮费12元），很多网友都是买来作为客厅HTPC或者NAS使用，反馈都说物超所值
 
@@ -75,3 +75,9 @@ tags:
 * 使用群晖官方套件DS Video为iPad/iPhone提供视频服务器
 * 群晖模拟Time Machine实现Mac无线备份
 * 提供各种格式共享高清片源给电视盒子播放
+
+---
+
+2014-05-25 更新
+
+因为购买的6cm CPU风扇默认为3500转，噪音实在是无法忍受，于是又在淘宝上购买了几条降速线（其实就是串联了电阻的普通3PIN线），使用后感觉噪音还在可接受范围内，建议大家尽量将NAS放置在远离日常生活工作的区域，就让它静静的为大家服务吧：）
