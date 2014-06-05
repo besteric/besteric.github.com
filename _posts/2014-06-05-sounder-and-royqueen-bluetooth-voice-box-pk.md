@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "三款国产蓝牙音箱简单开箱与对比（Sounder Vs Royqueen）"
-description:
+description: 这几天京东数码促销力度不错，一不小心直接入手三款蓝牙音箱，简单做了一组评测，最后居然有意外的惊喜，啧啧...
 categories:
 - 偶尔惊喜
 tags:
