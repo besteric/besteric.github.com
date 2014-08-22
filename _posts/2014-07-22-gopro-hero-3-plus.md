@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gopro Hero 3+ Black Edition 简单开箱"
-description: 
+description: "犹豫了1年多，这次终于趁着特价的机会，入手了"
 categories:
 - 偶尔惊醒
 tags:
