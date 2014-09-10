@@ -190,11 +190,11 @@ Four wheels move your Body, Two wheels move your Soul.
 ![image](http://gtms02.alicdn.com/tps/i2/TB1UUVnGXXXXXamaXXXwilE1pXX-1000-563.jpg)
 ![image](http://gtms03.alicdn.com/tps/i3/TB1QNO3GXXXXXbmXpXXSudE1pXX-1000-562.jpg)
 
-刚提车那会，周末带着女王去茶田小越野了一把，车车虽小但是后座载人压力不大
+刚提车那会，周末带着女王去景区小越野了一把，车车虽小但是后座载人压力不大
 
 ![image](http://gtms02.alicdn.com/tps/i2/TB1.U0OGXXXXXaWXVXXcGXE1pXX-1000-561.jpg)
 
-这张女王大人拍的很有菲林...感谢SMZDM众测提供的
+这张女王大人拍的很有菲林...感谢SMZDM众测提供的[OAKLEY FrogSkins 车王罗西限量款太阳眼镜](http://test.smzdm.com/pingce/p/1772)
 
 ![image](http://gtms04.alicdn.com/tps/i4/TB1Mp5SGXXXXXcGXVXXSudE1pXX-1000-559.jpg)
 
