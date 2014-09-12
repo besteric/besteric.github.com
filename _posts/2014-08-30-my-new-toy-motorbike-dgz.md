@@ -202,7 +202,7 @@ Four wheels move your Body, Two wheels move your Soul.
 
 ![image](http://gtms02.alicdn.com/tps/i2/TB1nnskFVXXXXcVXVXXVhVD1pXX-1000-556.jpg)
 
-最后再放俩张马拉松后，体重暴增12斤的撸主，顺便预告下期的主题——「肥仔机车男与Gopro的泰国行」
+最后再放2张马拉松后，体重暴增12斤的撸主，顺便预告下期的主题——「肥仔机车男与Gopro的泰国行」
 
 ![image](http://gtms01.alicdn.com/tps/i1/TB1QE53GXXXXXbmXpXXWbp21pXX-1000-750.jpg)
 
