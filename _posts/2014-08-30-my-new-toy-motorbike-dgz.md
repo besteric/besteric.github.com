@@ -207,3 +207,15 @@ Four wheels move your Body, Two wheels move your Soul.
 ![image](http://gtms01.alicdn.com/tps/i1/TB1QE53GXXXXXbmXpXXWbp21pXX-1000-750.jpg)
 
 ![image](http://gtms04.alicdn.com/tps/i4/TB19k90GXXXXXcnXFXXSudE1pXX-1000-559.jpg)
+
+考虑到大家这么热情，那就再放几张大公仔与小伙伴的照片，毒害下大家：）
+
+![image](http://ww2.sinaimg.cn/mw1024/661e5653jw1ejfsu1db15j20hs0hsjvo.jpg)
+
+![image](http://ww1.sinaimg.cn/mw1024/661e5653jw1ekaq0cobn6j20hs0hsdil.jpg)
+
+![image](http://ww3.sinaimg.cn/mw1024/661e5653jw1ekaq26ps7oj20hs0hsq6k.jpg)
+
+一起的小伙伴分别为：鑫源棍王400、川崎小忍者 Kawasaki Ninja 250、铃木GW250、宗申Z-ONE 150、钱江蓝宝龙150
+
+期待爱机车的你加入我们 XD
