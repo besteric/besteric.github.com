@@ -571,3 +571,18 @@ a.toTop:hover {
     vertical-align: top;
 }
 
+@media only screen and (max-device-width: 640px), 
+       only screen and (max-device-width: 667px), 
+       only screen and (max-width: 480px){
+    
+    .main-article-contant p,
+    .main-article ul,
+    .main-article pre{
+        font-size: 2rem;
+    }
+    .main-article pre{
+        white-space: normal;
+        line-height: 2rem;
+    }
+
+}
