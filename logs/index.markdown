@@ -62,3 +62,11 @@ wordpress_id: 384
 2014/03/25
 
 更新了Jekyll的主题为[Violet](http://www.zhanxin.info/themes.html)，并修改了部分样式。修改了Markdown的渲染引擎为redcarpet，将Jekyll升级到1.5.0版本，[详情点此](http://www.besteric.com/2014/03/26/change-blog-theme-to-violet/)
+
+2014/11/16
+
+因为访问速度的问题，[将Blog Host从Github迁移回国内的Gitcafe](http://besteric.com/2014/11/16/build-blog-mirror-site-on-gitcafe/)，终于可以享受秒开的感觉:)
+
+2014/12/05
+
+在Godaddy续费了2年besteric.com的域名费用
