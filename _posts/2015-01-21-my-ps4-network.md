@@ -1,11 +1,11 @@
 ---
-Layout: post
-Title: "我是如何改善PS4的下载速度+联机质量的"
-Description: 微软Xbox One真是酷炫啊，老板，给我来台Ps4压压惊...
-Categories:
+layout: post
+title: "我是如何改善PS4的下载速度+联机质量的"
+description: 微软Xbox One真是酷炫啊，老板，给我来台Ps4压压惊...
+categories:
 - 偶尔惊喜
-Tags:
-- Ps4
+tags:
+- PS4
 
 
 ---
