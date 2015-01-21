@@ -123,11 +123,8 @@ Dnsmasq比较推荐配置在路由器上，所以Openwrt或者Routeros这类路�
 * [如何规避电信对于出口的限制？](http://www.v2ex.com/go/shadowsocks)
     * 在国内寻找出口不受限制的跳板机，这样每次上午的流量就是出口流量->国内跳板机->本机，应该是可以突破这个限制
     
----
-
-
-    It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair. We had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short.
-        
+`   
+    
     这是最好的时代，这是最坏的时代；
 
     这是智慧的年代，这是愚蠢的年代；
@@ -142,9 +139,7 @@ Dnsmasq比较推荐配置在路由器上，所以Openwrt或者Routeros这类路�
 
     我们正走向天堂，我们都在奔向与其相反的地方； 
     
-    --「双城记」
-    
-
+    --「双城记」`
 
 ---
 
