@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "我是如何改善PS4的下载速度+联机质量的"
+title: "改善PS4的下载速度+联机质量"
 description: 微软Xbox One真是酷炫啊，老板，给我来台Ps4压压惊...
 categories:
 - 偶尔惊喜
@@ -43,26 +43,26 @@ Dnsmasq比较推荐配置在路由器上，所以Openwrt或者Routeros这类路�
 
 过程：
     
-1. Ssh Root@Nasip
-2. Cd /Volume1/@Tmp
-3. Wget "Http://Ipkg.Nslu2-Linux.Org/Feeds/Optware/Syno-I686/Cross/Unstable/Syno-I686-Bootstrap_1.2-7_I686.Xsh”
+* Ssh Root@Nasip
+* Cd /Volume1/@Tmp
+* Wget "Http://Ipkg.Nslu2-Linux.Org/Feeds/Optware/Syno-I686/Cross/Unstable/Syno-I686-Bootstrap_1.2-7_I686.Xsh”
     不同型号的Nas下载的版本不一致，[详细查阅](Http://Forum.Synology.Com/Wiki/Index.Php/Overview_On_Modifying_The_Synology_Server,_Bootstrap,_Ipkg_Etc#Bootstrap)
-4. Sh Syno-I686-Bootstrap_1.2-7_I686.Xsh
-5. Ipkg Update
-6. Ipkg Install Dnsmasq
-7. Vi /Opt/Etc/Dnsmasq.Conf
-      * 关闭 Dhcp：No-Dhcp-Interface=
-      * 增加 默认 Dns：Server=114.114.114.114
-      * 增加以下语句
+* Sh Syno-I686-Bootstrap_1.2-7_I686.Xsh
+* Ipkg Update
+* Ipkg Install Dnsmasq
+* Vi /Opt/Etc/Dnsmasq.Conf
+     * 关闭 Dhcp：No-Dhcp-Interface=
+     * 增加 默认 Dns：Server=114.114.114.114
+     * 增加以下语句
         Address=/Zeus.Dl.Playstation.Net/58.218.214.10
         Address=/Poseidon.Dl.Playstation.Net/58.218.214.10
         Address=/Gs2.Ww.Prod.Dl.Playstation.Net/58.218.214.10
         Address=/Gs.Ww.Prod.Dl.Playstation.Net/58.218.214.10
         Address=/Ares.Dl.Playstation.Net/58.218.214.10 
     
-8. 上述的Ip请参考[这个帖子](Http://Bbs.A9Vg.Com/Thread-4255770-1-1.Html)提供的地理位置做判断
-9. /Opt/Etc/Init.D/S56Dnsmasq Restart
-10. Ps4的网络设置选择自定，Dns第一栏填写Nas在局域网的Ip
+* 上述的Ip请参考[这个帖子](Http://Bbs.A9Vg.Com/Thread-4255770-1-1.Html)提供的地理位置做判断
+* /Opt/Etc/Init.D/S56Dnsmasq Restart
+* Ps4的网络设置选择自定，Dns第一栏填写Nas在局域网的Ip
 
 成果：
 
@@ -97,13 +97,13 @@ Dnsmasq比较推荐配置在路由器上，所以Openwrt或者Routeros这类路�
 
 实际使用下来我发现VPN不是很稳定，经常受到GFW的干扰较严重，在晚上高峰时期（20:00-24:00）经常会丢包，看视频可能影响不大，但是对于联机的影响是致命的...所以研究了下如何将Shadowsocks代理给PS4使用。由于PS4只支持http代理，所以我们需要将Shadowsocks的socks代理先在本地转成http代理，这里推荐使用[Privoxy](http://www.privoxy.org/)
 
-1. 下载安装后，在终端输入： sudo vi /usr/local/etc/privoxy/config
-2. 主要修改两行代码（主要是将#注释去掉）：
+* 下载安装后，在终端输入： sudo vi /usr/local/etc/privoxy/config
+* 主要修改两行代码（主要是将#注释去掉）：
      * listen-address 0.0.0.0:8118 (0.0.0.0代表监听局域网所有网段的8118端口)
      * forward-socks5 / 127.0.0.1:8087（8087是本地shadowsocks client端口）
-3. 重启下Privoxy（应用程序有Privoxy的脚本，直接脱到终端执行）
+* 重启下Privoxy（应用程序有Privoxy的脚本，直接脱到终端执行）
 
-4. PS4上http代理填写电脑IP与8118端口即可完成代理
+* PS4上http代理填写电脑IP与8118端口即可完成代理
 
 以上两种方式VPN+Shadowsocks貌似都可以在路由器层面完成，由于我没有类似的设备就没做相应尝试了，后期倒是考虑将代理配置移入局域网的NAS，这样每次就不用开电脑了...
 
