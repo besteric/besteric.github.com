@@ -61,6 +61,13 @@ Google了下发现国内的Gitcafe也支持Pages部署静态博客了，而且�
 
 这样每次执行 git publish就可以将文件同步到两个仓库了
 
+
+```html
+
+<div class="abc"></div>
+
+```
+
 ---
 
 参考资料：
