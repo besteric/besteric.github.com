@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "世界这么大，我想带你去看看——小牛N1电动车开箱测评"
+title: "小牛N1电动车开箱初体验"
 description: 等了快两个月终于收到了小牛N1电动车，又要开始做测评了...
 categories: 
 - 偶尔惊喜
