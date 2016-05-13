@@ -1,8 +1,9 @@
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments: true
-plugins: ./_plugins
+highlighter: rouge
+plugins_dir: ./_plugins
+gems: [jekyll-paginate]
 paginate: 8
 permalink: /:year/:month/:day/:title/
 
@@ -56,7 +57,7 @@ follow:
 author:
   name: besteric
   link: http://www.besteric.com/contact.html
-  img: 
+  img:
 
 #评论信息
 disqus:
