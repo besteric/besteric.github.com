@@ -1,69 +1,77 @@
-markdown: kramdown
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: rouge
-plugins_dir: ./_plugins
-gems: [jekyll-paginate]
-paginate: 8
-permalink: /:year/:month/:day/:title/
+# Site
+title:              Pretend To Write Like A Hacker
+bio:                'Pretend To Write Like A Hacker'
+description:        "Pretend To Write Like A Hacker"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                http://www.besteric.com
 
-safe: false
+# Jekyll
+permalink:          /:year/:month/:day/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-#站点基础配置
-title: Pretend To Write Like A Hacker
-subTitle: besteric.
-description: 记录生活点滴，积累沉淀...
-url: http://www.besteric.com
-feed: /atom.xml
-
-#菜单配置
-nav:
-  - text: 首页
-    url: /
-  - text: 游戏
-    url: /game/
-  - text: 运动
-    url: /sports/
-  - text: 文章列表
-    url: /archives/
-  - text: 关于我
-    url: /about/
-  - text: 网站日志
-    url: /logs/
-  - text: 订阅
-    url: /atom.xml
-
-#theme config
-themes: /themes/violet
-
-#配置你喜欢的顶部背景图片
-headimg:
-  - item: http://gtms02.alicdn.com/tps/i2/T1PObnFqBdXXcryKEg-1280-200.jpg
-  - item: http://gtms03.alicdn.com/tps/i3/T1U_YlFAlcXXbErygJ-2048-260.jpg
-  - item: http://gtms04.alicdn.com/tps/i4/T1K0LLFvVbXXbErygJ-2048-260.jpg
-  - item: http://gtms01.alicdn.com/tps/i1/T12DHKFx4bXXbErygJ-2048-260.jpg
-
-#关注我
-follow:
-
-  - class: fa-github
-    url: http://github.com/besteric
-  - class: fa-twitter
-    url: http://www.twitter.com/besteric
-  - class: fa-rss
-    url: http://www.besteric.com/atom.xml
-
-#作者信息
-author:
-  name: besteric
-  link: http://www.besteric.com/contact.html
-  img:
-
-#评论信息
-disqus:
-  config: false
-  id: piznblog
-
+# Comments
+#disqus_shortname:   taylantatli
 duoshuo:
   config: true
   id: besteric
+
+# Social
+# if you don't have any of social below, comment the line.
+google:
+  #plus:            #username
+  analytics: UA-12443851-2
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            besteric
+#facebook:           username
+github:             besteric
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+instagram:          besteric
+#lastfm:            username
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+weibo:              besteric
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
