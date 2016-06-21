@@ -70,3 +70,13 @@ wordpress_id: 384
 2014/12/05
 
 在Godaddy续费了2年besteric.com的域名费用
+
+2016/06/22
+
+更新Jekyll主题为[Moon](http://taylantatli.me/Moon/moon-theme/)，修改了部分源码部分：
+
+ * 添加了多说作为评论插件
+ * 修改文章列表默认输出 post.description 字段
+ * 将文章模板引擎的 post.data 更改为 rpost.date
+
+博客在Mobile的访问下终于有个不错的效果了:)
