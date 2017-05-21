@@ -48,6 +48,8 @@ Synoboot支持的U盘VID和PID如下：
 
 本来5.2已经支持 docker 了，照理说可以不用再升级到最新的 6.0 系统了，但是在使用 docker 的过程中发现这个版本有些兼容性问题，特别是 homebridge 在这个版本的 docker 下运行会不定时报错，痛定思痛，还是得升级到 6.0 版本
 
+> NAS 若是安裝 DSM 5.2，則安裝的 Docker 版本會是 1.6.2。如果最近有升級到 DSM 6.0，安裝的 Docker 版本則是 1.9.1 [FROM HERE](http://blog.chengweichen.com/2016/04/synology-nas-docker.html)
+
 参考了这篇文章 [Tutorial: Install/Migrate DSM 5.2 to 6.0 (Jun's loader)](http://xpenology.com/forum/viewtopic.php?f=2&t=22100) 升级过程和 5.2 出入不是特别大，需要注意的几个点：
 
 1. 6.0版本的引导文件（synoboot.img loader）和 5.x 时代（XPEnoboot img loader）完全不一样，所以对主板配置有一些特殊的要求，比如 `HDDs are booting in AHCI mode and not in IDE`
