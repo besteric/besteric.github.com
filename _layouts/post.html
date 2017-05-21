@@ -36,32 +36,16 @@ layout: compress
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>
+                {% include sponsor.html %}
             </div>
-            {% if site.duoshuo.config %}
-            <div class="comment-cnt">
-                <div class="ds-thread"></div>
-            </div>
-            {% endif %}
         </div>
+
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    {% endif %}
-    {% if site.duoshuo.config %}
-    <script type="text/javascript">
-        var duoshuoQuery = {short_name:"{{ site.duoshuo.id }}"};
-        (function() {
-            var ds = document.createElement('script');
-            ds.type = 'text/javascript';ds.async = true;
-            ds.src = 'http://static.duoshuo.com/embed.js';
-            ds.charset = 'UTF-8';
-            (document.getElementsByTagName('head')[0]
-            || document.getElementsByTagName('body')[0]).appendChild(ds);
-        })();
-    </script>
     {% endif %}
 </body>
 </html>

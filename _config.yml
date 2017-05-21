@@ -26,10 +26,10 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   taylantatli
-duoshuo:
-  config: true
-  id: besteric
+disqus_shortname:   taylantatli
+#duoshuo:
+  #config: true
+  #id: besteric
 
 # Social
 # if you don't have any of social below, comment the line.
