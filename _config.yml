@@ -8,7 +8,7 @@ logo:               '//img.alicdn.com/tps/i3/TB1404EKFXXXXaQXpXXGzpW8VXX-1280-12
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://www.besteric.com
+url:                https://www.besteric.com
 
 # Jekyll
 permalink:          /:year/:month/:day/:title/
